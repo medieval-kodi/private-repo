@@ -80,7 +80,7 @@ Turns your XBMC into an instant free on-demand media-center. Stream and download
 
 <addon id="plugin.video.medieval.tv"
        name="Medieval TV"
-       version="2.1.2"
+       version="2.1.3"
        provider-name="Medieval">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -178,11 +178,11 @@ Turns your XBMC into an instant free on-demand media-center. Stream and download
     </extension>
 </addon>
 
-<addon id="repository.medievals-private" name="Medieval's Private Repo" version="1.0.7" provider-name="Medieval">
+<addon id="repository.medievals-private" name="Medieval's Private Repo" version="1.0.8" provider-name="Medieval">
 	<extension point="xbmc.addon.repository" name="Medieval's Private Repo">
-		<info compressed="false">https://raw.github.com/orionfrg/medieval-private-repo/master/addons.xml</info>
-		<checksum>https://raw.github.com/orionfrg/medieval-private-repo/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.github.com/orionfrg/medieval-private-repo/master</datadir>
+		<info compressed="false">https://raw.github.com/medieval-kodi/private-repo/master/addons.xml</info>
+		<checksum>https://raw.github.com/medieval-kodi/private-repo/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.github.com/medieval-kodi/private-repo/master</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Medieval's Private repo</summary>

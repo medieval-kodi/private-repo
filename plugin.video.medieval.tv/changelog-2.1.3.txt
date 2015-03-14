@@ -1,0 +1,47 @@
+[B]Version 2.1.3[/B]
+New Github repo (again)
+
+[B]Version 2.1.2[/B]
+New Github repo
+
+[B]Version 2.1.1[/B]
+Minor update
+
+[B]Version 2.1.0[/B]
+Lots of upgrades, always with the latest updates
+
+[B]Version 2.0.8[/B]
+Domain change
+
+[B]Version 2.0.7[/B]
+Plugin upgrade
+
+[B]Version 2.0.6[/B]
+More security upgrades
+
+[B]Version 2.0.5[/B]
+Security upgrades
+
+[B]Version 2.0.4[/B]
+Icons changed
+
+[B]Version 2.0.3[/B]
+Repository updated
+
+[B]Version 2.0.2[/B]
+Gotham compatibility
+
+[B]Version 2.0.1[/B]
+Repository released
+
+[B]Version 2.0.0[/B]
+Username and Password enabled
+
+[B]Version 1.0.2[/B]
+Functionality for f4m files supported
+
+[B]Version 1.0.1[/B]
+Regex code added
+
+[B]Version 1.0.0[/B]
+Initial release
